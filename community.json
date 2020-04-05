@@ -1,0 +1,11 @@
+{"rules": [{"ADJ_COM_POS": "", "dep": "1"}, {"NOUN_COM": "", "POS": "NOUN"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"ADV_COM_POS": "", "dep": "3"}, {"COM_VERB": "", "dep": "1", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "3"}, {"VERB_BE": "", "POS": "VERB", "dep": "3"}, {"ADV_COM_POS": "", "dep": "3"}, {"COM_VERB": "", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_POSSESSION": "", "POS": "VERB"}, {"ADJ_COM_POS": "", "dep": "3"}, {"USE": "", "dep": "1", "POS": "NOUN"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"ADV_COM_NEG": "", "dep": "3"}, {"COM_VERB": "", "dep": "1", "POS": "VERB"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "3"}, {"VERB_BE": "", "POS": "VERB", "dep": "3"}, {"ADV_COM_NEG": "", "dep": "3"}, {"COM_VERB": "", "POS": "VERB"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_BE": ""}, {"ADV_COM_POS": "", "dep": "3"}, {"DEVELOP": "", "dep": "1", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "3"}, {"VERB_BE": "", "dep": "3"}, {"ADV_COM_POS": "", "dep": "3"}, {"DEVELOP": "", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_BE": ""}, {"NOT": "", "dep": "3"}, {"COM_VERB": "", "dep": "1", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "3"}, {"VERB_BE": "", "dep": "3"}, {"NOT": "", "dep": "3"}, {"COM_VERB": "", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"ADJ_COM_POS": "", "dep": "1"}, {"LIBRARY": "", "POS": "ADP"}, {"LIKE_PHRASE": "", "POS": "ADP", "dep": "1"}, {"LIBRARY": "lib", "dep": "2"}], "default_sentiment": "POS"}

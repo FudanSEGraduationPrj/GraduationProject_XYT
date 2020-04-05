@@ -1,0 +1,18 @@
+{"rules": [{"VERB_PERFORMANCE_POS": "", "POS": "VERB"}, {"NOUN_PERFORMANCE": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_POSSESSION": "", "POS": "VERB"}, {"ADJ_PERFORMANCE_POS": "", "dep": "0"}, {"ABILITY": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_INCLUSION": "", "POS": "VERB"}, {"ADJ_PERFORMANCE_POS": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_INCLUSION": "", "POS": "VERB"}, {"ADJ_PERFORMANCE_NEG": "", "dep": "0"}], "default_sentiment": "NEG"}
+{"rules": [{"ADJ_PERFORMANCE_POS": "", "dep": "1"}, {"LIBRARY": "lib", "POS": "NOUN"}], "default_sentiment": "POS"}
+{"rules": [{"ADJ_PERFORMANCE_NEG": "", "dep": "1"}, {"LIBRARY": "lib", "POS": "NOUN"}], "default_sentiment": "NEG"}
+{"rules": [{"ADJ_PERFORMANCE_POS": "", "dep": "1"}, {"VERB_BE": "", "POS": "VERB "}, {"LIBRARY": "lib", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"ADJ_PERFORMANCE_NEG": "", "dep": "1"}, {"VERB_BE": "", "POS": "VERB "}, {"LIBRARY": "lib", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"NOUN_PERFORMANCE": "", "dep": "1"}, {"VERB_PERFORMANCE_NEG": "", "POS": "VERB"}], "default_sentiment": "NEG"}
+{"rules": [{"NOUN_PERFORMANCE": "", "dep": "1"}, {"VERB_PERFORMANCE_POS": "", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"NOUN_PERFORMANCE": "", "dep": "1"}, {"NOUN_NEG": "", "POS": "NOUN"}], "default_sentiment": "NEG"}
+{"rules": [{"ADJ_POS": "", "dep": "1"}, {"NOUN_PERFORMANCE": "", "POS": "NOUN"}], "default_sentiment": "POS"}
+{"rules": [{"IF": "", "dep": "1"}, {"VERB_WANT": "", "POS": "VERB", "dep": "3"}, {"NOUN_PERFORMANCE": "", "dep": "1"}, {"USE": "", "POS": "VERB"}, {"LIBRARY": "lib", "dep": "3"}], "default_sentiment": "NEG"}
+{"rules": [{"ADJ_NEG": "", "dep": "1"}, {"NOUN_PERFORMANCE": "", "POS": "NOUN"}], "default_sentiment": "NEG"}
+{"rules": [{"NOUN_NEG": "", "POS": "NOUN"}, {"NOUN_PERFORMANCE": "", "dep": "0"}], "default_sentiment": "NEG"}
+{"rules": [{"VERB_POSSESSION": "", "POS": "VERB"}, {"ADJ_POS": "", "dep": "0"}, {"NOUN_SCAL": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"NOUN_SCAL": "", "dep": "1"}, {"VERB_POSSESSION": "", "POS": "VERB"}, {"ADJ_POS": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"NOUN_SCALE": "", "dep": "1"}, {"VERB_BE": "", "POS": "NOUN"}, {"ADJ_SCAL_NEG": "", "dep": "1"}], "default_sentiment": "NEG"}

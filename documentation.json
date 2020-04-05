@@ -1,0 +1,29 @@
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_POSSESSION": "", "POS": "VERB"}, {"NOUN_DOC": "", "dep": "1", "POS": "NOUN"}, {"DOC_PRON": "", "dep": "2"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_BE|VERB_POSSESSION": "", "POS": "VERB"}, {"QUANT_POS": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_BE|VERB_POSSESSION": "", "POS": "VERB"}, {"NOUN_DOC": "", "dep": "0", "POS": "NOUN"}, {"DOC_PRON": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_BE|VERB_POSSESSION": "", "POS": "VERB"}, {"QUANT_NEG": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "NEG"}
+{"rules": [{"NOUN_DOC": "", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"ADJ_DOC_POS": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"NOUN_DOC": "", "POS": "NOUN"}, {"VERB_BE": "", "POS": "VERB", "dep": "0"}, {"ADJ_DOC_POS": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_BE": "", "POS": "VERB"}, {"ADJ_DOC_POS": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"NOUN_DOC": "", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"ADJ_DOC_NEG": "", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"VERB_BE": "", "POS": "VERB"}, {"ADJ_DOC_NEG": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "NEG"}
+{"rules": [{"NOUN_DOC": "", "dep": "1"}, {"VERB_DESCRIBE|VERB_POSSESSION": "", "POS": "VERB"}, {"NOUN_DOC_INFO": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"NOUN_DOC_INFO": "", "dep": "1"}, {"VERB_DESCRIBE": "", "POS": "VERB"}, {"NOUN_DOC|CODE": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_REFERENCE": "", "POS": "VERB"}, {"NOUN_DOC": "", "dep": "0", "POS": "NOUN"}, {"DOC_PRON": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_REFERENCE": "", "POS": "VERB"}, {"ADJ_DOC_POS": "", "dep": "2"}, {"NOUN_DOC": "", "POS": "NOUN", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"FOR": "", "dep": "2", "POS": "ADP"}, {"VERB|NOUN": "pos", "dep": "0"}, {"VERB_REFERENCE": "", "POS": "VERB"}, {"NOUN_DOC": "", "dep": "2"}], "default_sentiment": "POS"}
+{"rules": [{"TO": "", "dep": "1", "POS": "PART"}, {"VERB": "pos", "dep": "2", "POS": "VERB"}, {"VERB_REFERENCE": "", "POS": "VERB"}, {"NOUN_DOC": "", "dep": "2"}], "default_sentiment": "POS"}
+{"rules": [{"LINK": ""}, {"DOC_PRON": "", "dep": "0"}, {"NOUN_DOC_INFO": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_DESCRIBE": "", "POS": "VERB"}, {"ADV_DOC_POS": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_POSSESSION": "", "POS": "VERB"}, {"ADJ_DOC_POS": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"ADV_DOC_POS": "", "dep": "1"}, {"VERB_DESCRIBE": "", "POS": "VERB"}, {"NOUN_DOC": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"VERB_DESCRIBE": "", "POS": "VERB"}, {"ADV_DOC_NEG": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "NEG"}
+{"rules": [{"VERB_POSSESSION": "", "POS": "VERB"}, {"ADJ_DOC_NEG": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "NEG"}
+{"rules": [{"ADV_DOC_NEG": "", "dep": "1"}, {"VERB_DESCRIBE": "", "POS": "VERB"}, {"NOUN_DOC": "", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"NOUN_DOC": "", "dep": "1"}, {"VERB_DESCRIBE": "", "POS": "VERB"}, {"ADV_DOC_POS": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"NOUN_DOC": "", "dep": "2"}, {"ADV_DOC_POS": "", "dep": "2"}, {"VERB_DESCRIBE": "", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"NOUN_DOC": "", "dep": "1"}, {"VERB_DESCRIBE": "", "POS": "VERB"}, {"ADV_DOC_NEG": "", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"NOUN_DOC": "", "dep": "2"}, {"ADV_DOC_NEG": "", "dep": "2"}, {"VERB_DESCRIBE": "", "POS": "VERB"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"ADV_DOC_POS": "", "dep": "3"}, {"VERB_DESCRIBE": "", "dep": "1", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"INFORMATION": "", "POS": "NOUN"}, {"DOC_PRON": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "0"}], "default_sentiment": "POS"}
+{"rules": [{"INFORMATION": "", "POS": "NOUN", "dep": "2"}, {"DOC_PRON": "", "dep": "0"}, {"VERB_DESCRIBE|VERB_BE": "", "dep": "0"}, {"NOUN_DOC": "", "dep": "2"}], "default_sentiment": "POS"}

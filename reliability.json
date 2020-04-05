@@ -1,0 +1,20 @@
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_POSSESSION": "", "POS": "VERB"}, {"QUANT_NO": "", "dep": "3"}, {"NOUN_PROBLEM": "", "dep": "1", "POS": "NOUN"}, {"VERB": "pos", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_POSSESSION": "", "POS": "VERB"}, {"NOUN_PROBLEM": "", "dep": "1"}, {"VERB": "pos", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_PREVENT": "", "POS": "VERB"}, {"NOUN_PROBLEM": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB": "pos", "POS": "VERB"}, {"VERB_PREVENT": "", "POS": "VERB", "dep": "1"}, {"NOUN_PROBLEM": "", "dep": "2"}], "default_sentiment": "POS"}
+{"rules": [{"THERE": "", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"QUANT_NO": "", "dep": "1"}, {"NOUN_PROBLEM": "", "dep": "1"}, {"LIBRARY": "lib", "dep": "1"}, {"VERB": "pos", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"THERE": "", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"NOUN_PROBLEM": "", "dep": "1"}, {"LIBRARY": "lib", "dep": "1"}, {"VERB": "pos", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_POSSESSION": "", "POS": "VERB"}, {"ADJ_REL_NEG": "", "dep": "3"}, {"IMPLEMENTATION": "", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_POSSESSION": "", "POS": "VERB"}, {"ADJ_REL_POS": "", "dep": "3"}, {"IMPLEMENTATION": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "POS": "PROPN"}, {"VERB_POSSESSION": "", "POS": "VERB", "dep": "0"}, {"ADJ_REL_NEG": "", "dep": "3"}, {"IMPLEMENTATION": "", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "POS": "PROPN"}, {"VERB_POSSESSION": "", "POS": "VERB", "dep": "0"}, {"ADJ_REL_POS": "", "dep": "3"}, {"IMPLEMENTATION": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"QUANT_POS": "", "dep": "1", "POS": "adj"}, {"NOUN_PROBLEM": "", "dep": "2"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "2"}, {"VERB_HELPING": "", "dep": "2"}, {"VERB": "pos", "POS": "VERB"}, {"ADV_REL_POS": "", "dep": "2"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_CAUSE": "", "POS": "VERB"}, {"ERROR_NAME": "", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_HELPING": "", "dep": "2"}, {"VERB": "pos", "POS": "VERB"}, {"WITHOUT": "", "dep": "1"}, {"NOUN_PROBLEM": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"ADJ_REL_POS": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "POS": "PROPN"}, {"VERB_BE": "", "POS": "VERB", "dep": "0"}, {"ADJ_REL_POS": "", "dep": "1"}], "default_sentiment": "POS"}
+{"rules": [{"LIBRARY": "lib", "dep": "1"}, {"VERB_BE": "", "POS": "VERB"}, {"ADJ_REL_NEG": "", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "POS": "PROPN"}, {"VERB_BE": "", "POS": "VERB", "dep": "0"}, {"ADJ_REL_NEG": "", "dep": "1"}], "default_sentiment": "NEG"}
+{"rules": [{"LIBRARY": "lib", "dep": "2"}, {"DO": "", "dep": "2"}, {"WORK": "", "POS": "VERB"}], "default_sentiment": "POS"}
+{"rules": [{"PRON": "pos", "dep": "1"}, {"VERB_POSSESSION": "", "POS": "VERB"}, {"NOUN_PROBLEM": "", "dep": "1"}, {"WITH": "", "dep": "1"}, {"LIBRARY": "lib", "dep": "1"}, {"VERB": "pos", "dep": "1"}], "default_sentiment": "NEG"}
